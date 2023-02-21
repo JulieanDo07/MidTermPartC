@@ -65,7 +65,7 @@ public class UserProfile
         this.genre = genre;
     }
     
-    // Comments added for question 6 of midterm
+    // Comments added for question 6 of midterm. 
     
     
     
