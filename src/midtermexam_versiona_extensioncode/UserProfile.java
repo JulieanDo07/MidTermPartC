@@ -31,6 +31,10 @@ public class UserProfile
         genre= givenGenre;
     }
 
+    UserProfile() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
     /**
      * A getter for the userID
      * @return the userID
